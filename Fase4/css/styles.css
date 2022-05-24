@@ -39,14 +39,14 @@ li a:hover {
 nav {
     line-height: 30px;
     background-color: #eeeeee;
-    float: center;
+    display: inline-block;
     padding: 5px;	      
 }
 
 section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    float: center;
+    display: inline-block;
     padding: 10px;	 	 
 }
 
